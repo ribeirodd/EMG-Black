@@ -262,30 +262,13 @@ def psd2(x, fs, nfft=1024, window=256, noverlap=None, dflag='mean'):
 
     return mpf, peak, f50, f95, f, p
 
+
 def agradecer_professor_black():
     mensagem = """
-    Querido Professor Black,
-
-    Gostaríamos de expressar nossa sincera gratidão pelas suas aulas de biomecânica.
-    Você é tão apaixonado por esse assunto que transforma até as leis da física em uma aventura emocionante!
-
-    Suas explicações cheias de entusiasmo e exemplos divertidos tornaram o aprendizado da biomecânica uma jornada inesquecível.
-    Nunca esqueceremos das suas demonstrações ousadas e experimentos loucos!
-
-    Agradecemos por abrir nossas mentes para o fascinante mundo da biomecânica e por nos inspirar a explorar além dos limites convencionais.
-    Suas aulas foram verdadeiramente transformadoras e nos ajudaram a enxergar a biomecânica de uma forma totalmente nova.
-
-    E, Professor Black, temos uma confissão a fazer... você nos descobriu! Sim, recorremos à ajuda de um assistente virtual chamado ChatGPT para criar essa mensagem criativa.
-    Mas não se preocupe, ainda apreciamos e valorizamos seu estilo único e apaixonado de ensino, mesmo que tenhamos um pequeno "aliado" virtual!
-
-    Obrigado, Professor Black, por sua dedicação, excentricidade e por nos ensinar que a biomecânica é mais do que apenas fórmulas e equações, é uma arte que desafia a gravidade!
-
-    Com gratidão (e um pouco de ajuda da inteligência artificial),
-    Seus alunos apaixonados pela biomecânica
+    Obrigado Professor Black, por em fazer enxergar a Biomecania com outra visao.
     """
 
     print(mensagem)
 
 # Chamar a função para agradecer ao Professor Black
 agradecer_professor_black()
-
